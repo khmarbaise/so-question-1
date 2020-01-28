@@ -1,0 +1,12 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>intellij</groupId>
+        <artifactId>fix</artifactId>
+        <version>${revision}</version>
+    </parent>
+
+    <groupId>intellij</groupId>
+    <artifactId>child</artifactId>
+    <packaging>pom</packaging>
+</project>

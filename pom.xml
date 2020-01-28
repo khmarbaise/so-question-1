@@ -1,0 +1,16 @@
+<project>
+    <groupId>intellij</groupId>
+    <artifactId>fix</artifactId>
+    <version>${revision}</version>
+    <packaging>pom</packaging>
+
+    <properties>
+        <revision>1.0.0</revision>
+    </properties>
+
+    <modules>
+        <module>child</module>
+        <module>example</module>
+    </modules>
+    <modelVersion>4.0.0</modelVersion>
+</project>
